@@ -1,4 +1,4 @@
-# -EDARS-Project-44
+# EDARS-Project-44
 // Linkedin : https://www.linkedin.com/company/electronics-with-shreyash
 
 // Instagram : https://www.instagram.com/electronics_developer/
